@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Image view style -->
+    <style name="ImageViewStyle">
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+
+    <!-- Rounded image view style -->
+    <style name="RoundedImageViewStyle">
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:background">@color/white</item>
+    </style>
+</resources> 

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink">#FF4081</color>
+    <color name="green">#4CAF50</color>
+    
+    <!-- Main theme colors -->
+    <color name="main_background">#1A1A1A</color>
+    <color name="primary">#FF6200EE</color>
+    <color name="bottom_nav_background">#242424</color>
+    <color name="search_background">#2D2D2D</color>
+    <color name="text_secondary">#99000000</color>
+    
+    <!-- Bottom navigation colors -->
+    <color name="bottom_nav_icon_tint">#99000000</color>
+    <color name="bottom_nav_text_tint">#99000000</color>
+    <color name="bottom_nav_icon_tint_selected">#FF6200EE</color>
+    <color name="bottom_nav_text_tint_selected">#FF6200EE</color>
+    
+    <!-- Card and surface colors -->
+    <color name="card_background">#242424</color>
+    <color name="surface_background">#2D2D2D</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_hint">#61000000</color>
+    
+    <!-- Divider color -->
+    <color name="divider">#1F000000</color>
+    
+    <!-- Additional colors -->
+    <color name="error">#FFB00020</color>
+    <color name="success">#FF018786</color>
+    <color name="warning">#FFE65100</color>
+</resources>
