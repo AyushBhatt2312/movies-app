@@ -14,3 +14,12 @@ Built with a focus on **speed, accuracy, and an easy-to-use interface**.
 
 ## 🚀 App Screenshots
 
+| Home Screen      | Login Screen | Recommendations Screen | Movie Details Screen |
+|------------------|-------------------------|-------------------------|-----------------------|
+| ![Home](1745341295960.jpeg)  | ![Login](1745341294856.jpeg) | ![Recommendations](1745341296767.jpeg) | ![Details](1745341296187.jpeg) |
+
+---
+
+
+
+
